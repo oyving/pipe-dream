@@ -1,4 +1,3 @@
-pipe-dream
+Pipe Dream
 ==========
 
-Pipe Dream
